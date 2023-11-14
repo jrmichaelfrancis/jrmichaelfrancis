@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/jrmichaelfrancis">A Passionate Cybersecurity Proffesional</a>, <a href="https://www.linkedin.com/in/jrmichaelfrancis/">Aspring Cybersecurity Analyst</a>
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/jrmichaelfrancis">A Passionate Cybersecurity Proffesional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
